@@ -15,8 +15,10 @@ require('parse-ms-2')
 
 parseMilliseconds(1337000001)
 
-Return:
+
 /*
+Return:
+
 {
 	days: 15,
 	hours: 11,
